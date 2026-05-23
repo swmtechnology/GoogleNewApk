@@ -1,0 +1,6 @@
+{
+  "name": "Handi Restaurant",
+  "description": "Premium food delivery and menu application for authentic clay-pot Handi Indian specialties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
